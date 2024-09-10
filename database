@@ -10,39 +10,47 @@
   },
   {
     "id": 2,
-    "name": "Harsh Makad",
-    "username": "harsh456",
-    "email": "harshmakad@gmail.com",
+    "name": "Heet Joshi",
+    "username": "heet456",
+    "email": "heetjoshi@gmail.com",
     "address": {
       "street": "456 Oak Avenue"
     }
   },
   {
     "id": 3,
-    "name": "Jaimin Dattani",
-    "username": "jaimin789",
-    "email": "jaimindattani@gmail.com",
+    "name": "Sarvam Patel",
+    "username": "sarvam789",
+    "email": "sarvampatel@gmail.com",
     "address": {
       "street": "789 Pine Road"
     }
   },
   {
     "id": 4,
-    "name": "Shyam Patel",
-    "username": "shyam012",
-    "email": "shyampatel@gmail.com",
+    "name": "Krish Kumar",
+    "username": "krish012",
+    "email": "krishkumar@gmail.com",
     "address": {
       "street": "012 Maple Lane"
     }
   },
   {
     "id": 5,
-    "name": "Vatsal Devani",
-    "username": "vatsal345",
-    "email": "vatsaldevani@gmail.com",
+    "name": "Dev Sharma",
+    "username": "dev345",
+    "email": "devsharma@gmail.com",
     "address": {
       "street": "345 Birch Drive"
     }
   },
-  
+  {
+    "id": 6,
+    "name": "Ansh Mehta",
+    "username": "ansh678",
+    "email": "anshmehta@gmail.com",
+    "address": {
+      "street": "678 Cedar Blvd"
+    }
+  }
 ]
